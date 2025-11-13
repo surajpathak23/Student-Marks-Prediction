@@ -1,4 +1,4 @@
-# 🎓 Student Marks Prediction System
+# 🎓 Student Marks Prediction
 
 Predict a student’s marks from study hours and other academic factors using Streamlit and scikit-learn.
 
